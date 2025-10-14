@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T07:10:00Z",
+  "title": "App Guide",
+  "intro": [
+    "Get started fast: add favorite places, understand the index cards, and enable only the alerts you need. This guide covers the key features and how to use them effectively."
+  ],
+  "sections": [
+    {
+      "title": "First Steps",
+      "items": [
+        "Add favorite places to unlock quick summaries.",
+        "Learn the index colors and numbers, for example PM2.5, to understand risk levels.",
+        "Enable only the notifications you need. You can turn them off anytime in Settings."
+      ]
+    },
+    {
+      "title": "Key Features",
+      "items": [
+        "Local air quality cards and map with essential weather signals such as rain, wind, and temperature.",
+        "Best time recommendations for outdoor activities using diurnal patterns and short-term forecasts.",
+        "Simple history and trends to track changes over time.",
+        "Bite-size articles and field updates in the News section."
+      ]
+    },
+    {
+      "title": "Usage Tips",
+      "items": [
+        "Compare the next few hours to pick the safest window.",
+        "Use multiple places (home, office, school) to plan and compare.",
+        "When indices worsen, consider a mask, shorten your duration, or move activities indoors.",
+        "Pull to refresh on the Home tab to fetch the latest data."
+      ]
+    },
+    {
+      "title": "Privacy and Controls",
+      "items": [
+        "Location permission is optional and used only for nearby info and relevant alerts.",
+        "Usage data is anonymized to improve the service. We do not sell personal data.",
+        "You can change or revoke permissions anytime in your device settings."
+      ]
+    },
+    {
+      "title": "Limitations",
+      "items": [
+        "Weather and air quality can change quickly; measurements and forecasts carry uncertainty.",
+        "Low-cost sensors may bias under extreme conditions. Quality control reduces but cannot remove errors.",
+        "Treat the app as decision support, not the only source. Follow local authorities.",
+        "Data availability may vary by place and time."
+      ]
+    },
+    {
+      "title": "Feedback and Support",
+      "items": [
+        "Send feedback via the Consultation menu on satucuaca.id.",
+        "Report data or bug issues with time and location details to help us trace quickly.",
+        "Check the Help page or FAQ when available."
+      ]
+    }
+  ]
+}

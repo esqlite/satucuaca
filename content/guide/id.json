@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T07:10:00Z",
+  "title": "Panduan Aplikasi",
+  "intro": [
+    "Mulai cepat: tambahkan lokasi favorit, pahami kartu indeks, dan aktifkan notifikasi seperlunya. Panduan ini merangkum fitur utama serta cara memakainya secara efektif."
+  ],
+  "sections": [
+    {
+      "title": "Langkah Awal",
+      "items": [
+        "Tambahkan lokasi favorit agar ringkasan cepat tersedia.",
+        "Kenali warna dan nilai indeks pada kartu, misalnya PM2.5, untuk memahami tingkat risiko.",
+        "Aktifkan hanya notifikasi yang Anda perlukan. Anda bisa menonaktifkannya kapan saja di Pengaturan."
+      ]
+    },
+    {
+      "title": "Fitur Utama",
+      "items": [
+        "Kartu dan peta kualitas udara lokal beserta sinyal cuaca penting seperti hujan, angin, dan suhu.",
+        "Rekomendasi waktu terbaik untuk aktivitas luar ruang berbasis pola harian dan prakiraan jangka pendek.",
+        "Riwayat dan tren sederhana untuk melihat perubahan dari waktu ke waktu.",
+        "Artikel singkat dan pembaruan lapangan pada menu Berita."
+      ]
+    },
+    {
+      "title": "Tips Pemakaian",
+      "items": [
+        "Bandingkan beberapa jam ke depan untuk memilih waktu yang paling aman.",
+        "Gunakan lebih dari satu lokasi (rumah, kantor, sekolah) untuk perencanaan dan perbandingan.",
+        "Saat indeks memburuk, pertimbangkan memakai masker, kurangi durasi, atau pindahkan aktivitas ke dalam ruang.",
+        "Tarik untuk menyegarkan di Beranda agar data diperbarui ke kondisi terbaru."
+      ]
+    },
+    {
+      "title": "Privasi dan Kontrol",
+      "items": [
+        "Izin lokasi bersifat opsional dan digunakan hanya untuk menampilkan info sekitar serta notifikasi yang relevan.",
+        "Data penggunaan dianonimkan untuk peningkatan layanan. Kami tidak menjual data pribadi.",
+        "Ubah atau cabut izin kapan saja melalui pengaturan perangkat."
+      ]
+    },
+    {
+      "title": "Batasan",
+      "items": [
+        "Cuaca dan kualitas udara dapat berubah cepat; pengukuran dan prakiraan mengandung ketidakpastian.",
+        "Sensor berbiaya rendah dapat bias pada kondisi ekstrem. Pengendalian mutu mengurangi, bukan menghilangkan, kesalahan.",
+        "Gunakan aplikasi ini sebagai dukungan keputusan, bukan satu-satunya rujukan. Ikuti arahan otoritas setempat.",
+        "Ketersediaan data dapat bervariasi menurut lokasi dan waktu."
+      ]
+    },
+    {
+      "title": "Masukan dan Bantuan",
+      "items": [
+        "Kirim masukan melalui menu Konsultasi di satucuaca.id.",
+        "Laporkan isu data atau bug dengan mencantumkan waktu dan lokasi agar mudah ditelusuri.",
+        "Baca FAQ singkat di halaman Bantuan ketika tersedia."
+      ]
+    }
+  ]
+}
