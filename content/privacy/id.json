@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T07:30:00Z",
+  "title": "Kebijakan Privasi",
+  "intro": [
+    "Terakhir diperbarui: 20 Agustus 2025",
+    "Berlaku untuk situs satucuaca.id dan aplikasi Satu Cuaca (iOS/Android).",
+    "Kebijakan ini menjelaskan cara kami mengumpulkan, menggunakan, menyimpan, membagikan, dan melindungi data Anda—dengan kontrol yang jelas untuk pengguna."
+  ],
+  "sections": [
+    {
+      "title": "Siapa kami & ruang lingkup",
+      "items": [
+        "Satu Cuaca adalah platform informasi cuaca & kualitas udara (AQI) real-time dan prediktif.",
+        "Mencakup situs, aplikasi seluler, API & dashboard (peta/widget), serta komunikasi dukungan.",
+        "Ketentuan tambahan pada fitur/halaman tertentu tetap berlaku bersama kebijakan ini."
+      ]
+    },
+    {
+      "title": "Data yang Anda berikan",
+      "items": [
+        "Akun & profil (jika tersedia): nama tampilan, email, kata sandi yang di-hash, foto profil (opsional).",
+        "Dukungan/pesan: isi pertanyaan, lampiran, dan metadata korespondensi.",
+        "Preferensi: bahasa, lokasi/stasiun favorit, pengaturan notifikasi."
+      ]
+    },
+    {
+      "title": "Data dari perangkat Anda",
+      "items": [
+        "Lokasi—perkiraan atau presisi (GPS/Wi-Fi/seluler) hanya jika Anda memberi izin; izin dapat dicabut kapan saja.",
+        "Data perangkat & penggunaan: model perangkat, OS, versi aplikasi, zona waktu, IP, pengenal acak, serta event aplikasi (membuka layar, klik).",
+        "Diagnostik: crash log & metrik performa (waktu respons, error)."
+      ]
+    },
+    {
+      "title": "Data lingkungan (non-pribadi)",
+      "items": [
+        "Pembacaan sensor & sumber cuaca/AQI: PM2.5/PM10, O₃, NO₂, SO₂, CO, suhu, kelembapan, tekanan, angin, hujan, indeks UV, citra radar/satelit, dan keluaran model/nowcast.",
+        "Data ini tidak mengidentifikasi individu dan dapat dipakai untuk agregasi/tren."
+      ]
+    },
+    {
+      "title": "Cookie & teknologi serupa (web)",
+      "items": [
+        "Cookie esensial: otentikasi, keamanan, preferensi bahasa.",
+        "Analitik: mengukur penggunaan; tidak untuk pelacakan lintas situs iklan.",
+        "Penyimpanan lokal untuk pengaturan (tema, kota favorit).",
+        "Aplikasi seluler tidak memakai cookie, namun dapat menggunakan penyimpanan lokal."
+      ]
+    },
+    {
+      "title": "Untuk apa data digunakan",
+      "items": [
+        "Layanan inti: menampilkan kondisi cuaca/AQI, rekomendasi waktu & lokasi aktivitas, peta, dan lokasi favorit.",
+        "Notifikasi (jika diaktifkan): peringatan hujan/AQI berbasis ambang dan preferensi.",
+        "Personalisasi: bahasa, unit, urutan konten, stasiun terdekat.",
+        "Analitik & peningkatan kualitas: akurasi model (mis. MAE/RMSE/SMAPE), stabilitas, dan kinerja.",
+        "Keamanan: pencegahan penyalahgunaan/serangan, pembatasan permintaan.",
+        "Kepatuhan hukum: menanggapi permintaan sah dan kewajiban legal.",
+        "Kami **tidak** menjual data pribadi Anda dan tidak menggunakan pelacakan lintas situs untuk iklan."
+      ]
+    },
+    {
+      "title": "Dasar hukum pemrosesan",
+      "items": [
+        "Pelaksanaan kontrak: menyediakan layanan yang Anda minta.",
+        "Kepentingan sah: keamanan, diagnostik, dan analitik berdampak minimal.",
+        "Persetujuan: lokasi presisi, notifikasi, dan analitik opsional (dapat dicabut kapan saja).",
+        "Kewajiban hukum: penyimpanan/pengungkapan jika diwajibkan undang-undang."
+      ]
+    },
+    {
+      "title": "Berbagi data dengan pihak ketiga",
+      "items": [
+        "Infrastruktur & jaringan (CDN/DNS, server, mitigasi DDoS).",
+        "Sertifikat & keamanan (TLS/keamanan server).",
+        "Analitik & diagnostik (penggunaan & crash) yang dipseudonimkan/diagregasi bila memungkinkan.",
+        "Email & dukungan pelanggan.",
+        "Integrasi yang Anda minta (mis. widget peta atau open data meteorologi).",
+        "Penegak hukum/otoritas bila diwajibkan.",
+        "Mitra terikat untuk memproses sesuai instruksi kami, menjaga kerahasiaan, dan menerapkan keamanan memadai."
+      ]
+    },
+    {
+      "title": "Retensi data",
+      "items": [
+        "Log server & keamanan: 30–90 hari.",
+        "Diagnostik/crash: ≤ 12 bulan.",
+        "Analitik agregat: ≤ 24 bulan.",
+        "Preferensi lokal (app): hingga Anda menghapus aplikasi/data.",
+        "Data lingkungan (non-pribadi): dapat disimpan lebih lama untuk analisis historis.",
+        "Kewajiban hukum dapat mewajibkan retensi lebih panjang."
+      ]
+    },
+    {
+      "title": "Hak Anda",
+      "items": [
+        "Akses & perbaikan data yang tidak akurat.",
+        "Membatasi/menolak pemrosesan tertentu.",
+        "Portabilitas dalam format terstruktur.",
+        "Mencabut persetujuan (lokasi/notifikasi/analitik opsional).",
+        "Hubungi kami untuk menjalankan hak; verifikasi identitas mungkin diperlukan."
+      ]
+    },
+    {
+      "title": "Keamanan",
+      "items": [
+        "HTTPS/TLS, hardening server, kontrol akses berbasis kebutuhan, pemantauan anomali, dan backup terkelola.",
+        "Tidak ada sistem yang 100% aman; jika terjadi insiden, kami akan memberi pemberitahuan sesuai peraturan."
+      ]
+    },
+    {
+      "title": "Anak-anak",
+      "items": [
+        "Layanan tidak ditujukan untuk anak di bawah 13 tahun (atau usia minimum setempat).",
+        "Kami tidak secara sadar mengumpulkan data pribadi anak; hubungi kami untuk penghapusan bila diperlukan."
+      ]
+    },
+    {
+      "title": "Transfer lintas negara",
+      "items": [
+        "Infrastruktur/mitra dapat berada di negara berbeda.",
+        "Kami menggunakan mekanisme yang diakui (mis. klausul kontrak standar) dan memastikan tingkat perlindungan memadai."
+      ]
+    },
+    {
+      "title": "Kontrol & preferensi pengguna",
+      "items": [
+        "Lokasi: tolak/cabut izin di pengaturan OS atau gunakan pencarian manual.",
+        "Notifikasi: aktif/nonaktif lewat pengaturan aplikasi/OS.",
+        "Cookie (web): atur via banner/pengaturan browser.",
+        "Analitik opsional (jika ada): sediakan saklar opt-out di pengaturan."
+      ]
+    },
+    {
+      "title": "Kontak",
+      "items": [
+        "Email: admin@satucuaca.id",
+        "Sertakan detail permintaan dan (bila perlu) email yang digunakan untuk verifikasi."
+      ]
+    },
+    {
+      "title": "Perubahan kebijakan",
+      "items": [
+        "Kami dapat memperbarui kebijakan ini akibat perubahan fitur, praktik, atau hukum.",
+        "Perubahan material akan diberi pemberitahuan jelas (banner/email/prompt aplikasi)."
+      ]
+    },
+    {
+      "title": "Ringkasan praktis",
+      "items": [
+        "Kami mengumpulkan data minimum; lokasi hanya jika Anda izinkan.",
+        "Data dipakai untuk menampilkan cuaca/AQI, rekomendasi, notifikasi, dan peningkatan layanan.",
+        "Kami tidak menjual data Anda; berbagi hanya dengan mitra yang diperlukan.",
+        "Anda punya kontrol & hak: cabut izin, nonaktifkan notifikasi, minta akses/hapus data."
+      ]
+    }
+  ]
+}

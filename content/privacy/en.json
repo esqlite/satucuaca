@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T07:30:00Z",
+  "title": "Privacy Policy",
+  "intro": [
+    "Last updated: 20 August 2025",
+    "Applies to satucuaca.id and the Satu Cuaca apps (iOS/Android).",
+    "This policy explains how we collect, use, store, share, and protect your data—transparently and with user controls."
+  ],
+  "sections": [
+    {
+      "title": "Who we are & scope",
+      "items": [
+        "Satu Cuaca is a real-time and predictive air-quality & weather platform.",
+        "Covers the website, mobile apps, API & dashboards (maps/widgets), and support communications.",
+        "Additional terms on specific features/pages apply together with this policy."
+      ]
+    },
+    {
+      "title": "Data you provide",
+      "items": [
+        "Account & profile (if available): display name, email, hashed password, profile photo (optional).",
+        "Support/messages: message content, attachments, correspondence metadata.",
+        "Preferences: language, favorite locations/stations, notification settings."
+      ]
+    },
+    {
+      "title": "Data from your device",
+      "items": [
+        "Location—approximate or precise, only with your permission; you can revoke anytime.",
+        "Device & usage data: device model, OS, app version, time zone, IP, random identifiers, and app events.",
+        "Diagnostics: crash logs and performance metrics (latency, errors)."
+      ]
+    },
+    {
+      "title": "Environmental data (non-personal)",
+      "items": [
+        "Sensor readings and AQI/weather sources (PM2.5/PM10, O₃, NO₂, SO₂, CO, temperature, humidity, wind, rain, UV, radar/satellite) and model/nowcast outputs.",
+        "This data does not identify individuals and may be used in aggregate."
+      ]
+    },
+    {
+      "title": "Cookies & similar tech (web)",
+      "items": [
+        "Essential cookies for auth, security, language.",
+        "Analytics to measure usage; no cross-site ad tracking.",
+        "Local storage for settings (theme, favorite places).",
+        "Mobile apps do not use cookies but may use local storage."
+      ]
+    },
+    {
+      "title": "How we use data",
+      "items": [
+        "Core service: show AQI/weather conditions, timing/location recommendations, maps, favorites.",
+        "Notifications (if enabled): rain/AQI alerts based on thresholds and your preferences.",
+        "Personalization: language, units, content order, nearby stations.",
+        "Analytics & quality: model accuracy (e.g., MAE/RMSE/SMAPE), stability, and performance.",
+        "Security: abuse/attack mitigation and rate-limiting.",
+        "Legal compliance: respond to lawful requests and obligations.",
+        "We **do not** sell your personal data or use cross-site ad tracking."
+      ]
+    },
+    {
+      "title": "Legal bases",
+      "items": [
+        "Contract: to provide the services you request.",
+        "Legitimate interests: security, diagnostics, minimal-impact analytics.",
+        "Consent: precise location, notifications, and optional analytics (revocable anytime).",
+        "Legal obligation: retention/disclosure where required."
+      ]
+    },
+    {
+      "title": "Sharing with third parties",
+      "items": [
+        "Infrastructure & networking (CDN/DNS, servers, DDoS mitigation).",
+        "Certificate & security providers (TLS/server security).",
+        "Analytics & diagnostics (usage/crash) pseudonymized/aggregated when feasible.",
+        "Email & support communications.",
+        "Integrations you request (e.g., map widgets or meteorological open data).",
+        "Law enforcement/authorities when legally required.",
+        "Partners are bound to process per our instructions, keep confidentiality, and apply adequate security."
+      ]
+    },
+    {
+      "title": "Retention",
+      "items": [
+        "Server/security logs: 30–90 days.",
+        "Diagnostics/crash: ≤ 12 months.",
+        "Aggregated analytics: ≤ 24 months.",
+        "Local app preferences: until you delete the app/data.",
+        "Environmental (non-personal) data: may be retained longer for historical analysis.",
+        "Longer retention may be required by law."
+      ]
+    },
+    {
+      "title": "Your rights",
+      "items": [
+        "Access & rectification of inaccurate data.",
+        "Restriction/objection to certain processing.",
+        "Portability in a structured format.",
+        "Withdraw consent (location/notifications/optional analytics).",
+        "Contact us to exercise rights; identity verification may be required."
+      ]
+    },
+    {
+      "title": "Security",
+      "items": [
+        "HTTPS/TLS, server hardening, need-to-know access control, anomaly monitoring, and managed backups.",
+        "No system is 100% secure; if an incident affects your data, we will notify per applicable rules."
+      ]
+    },
+    {
+      "title": "Children",
+      "items": [
+        "Not intended for children under 13 (or local minimum age).",
+        "We do not knowingly collect children’s personal data; contact us for removal if needed."
+      ]
+    },
+    {
+      "title": "Cross-border transfers",
+      "items": [
+        "Infrastructure/partners may be located in other countries.",
+        "We use recognized mechanisms (e.g., standard contractual clauses) and ensure adequate protection."
+      ]
+    },
+    {
+      "title": "User controls & preferences",
+      "items": [
+        "Location: deny/revoke permission in OS settings or use manual search.",
+        "Notifications: toggle in app/OS settings.",
+        "Cookies (web): manage via banner/browser settings.",
+        "Optional analytics (if present): provide an opt-out switch in settings."
+      ]
+    },
+    {
+      "title": "Contact",
+      "items": [
+        "Email: admin@satucuaca.id",
+        "Please describe your request and, if needed, the email used so we can verify and assist."
+      ]
+    },
+    {
+      "title": "Policy changes",
+      "items": [
+        "We may update this policy to reflect feature, practice, or legal changes.",
+        "Material changes will be clearly communicated (banner, email, or in-app prompt)."
+      ]
+    },
+    {
+      "title": "Quick summary",
+      "items": [
+        "We collect the minimum necessary; location only with your permission.",
+        "We use data to show AQI/weather, recommendations, alerts, and to improve quality.",
+        "We do not sell your data; sharing is limited to necessary partners.",
+        "You control permissions and can request access/deletion."
+      ]
+    }
+  ]
+}
