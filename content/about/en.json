@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T06:40:00Z",
+  "title": "About Us",
+  "intro": [
+    "Satu Cuaca is a research-to-practice initiative that turns air quality and weather data into concise, trustworthy insights for everyday decisions.",
+    "We prioritize scientific rigor, transparent methods, and a clear user experience without sacrificing analytical depth."
+  ],
+  "sections": [
+    {
+      "title": "Mission",
+      "items": [
+        "Provide clear, relevant, and timely environmental information for everyone.",
+        "Help people plan safer outdoor activities through responsible recommendations.",
+        "Connect research outcomes with practical needs on the ground."
+      ]
+    },
+    {
+      "title": "Approach",
+      "items": [
+        "Integrate calibrated sensor networks, weather observations, and short-term forecast models.",
+        "Apply automated quality control such as outlier filtering, de-spiking, data completeness checks, and humidity adjustments for particulate sensors.",
+        "Bring local context through field testing in Bandung and Johor so the guidance reflects local patterns.",
+        "Keep methods transparent with plain-language summaries."
+      ]
+    },
+    {
+      "title": "What You Get",
+      "items": [
+        "Practical indices and guidance such as safe duration, mask needs, best time, route, and travel mode.",
+        "Concise air quality cards and maps plus key weather signals like rain, wind, and temperature.",
+        "Simple trends for favorite places and short articles in the News section."
+      ]
+    },
+    {
+      "title": "Our Values",
+      "items": [
+        "Privacy by design. Location permission is optional and can be revoked at any time. Usage data is not sold.",
+        "Reliability and prudence. Alerts are issued only when needed and include confidence levels and brief rationale.",
+        "Accessibility. A simple and inclusive interface across ages and backgrounds."
+      ]
+    },
+    {
+      "title": "Team",
+      "items": [
+        "Dr. M.D. Enjat Munajat, S.Si., MTI., Ph.D. (Unpad, Indonesia)",
+        "Prof. Dr. Dra. R. Ira Irawati, M.Si. (Unpad, Indonesia)",
+        "Prof. Dr. Drs. Heru Nurasa, M.A. (Unpad, Indonesia)",
+        "Dr. Mohd Murtadha Bin Mohamad (UTM, Malaysia)",
+        "Sholeh Qomaruddin, S.Hum. (Unpad, Indonesia)"
+      ]
+    },
+    {
+      "title": "Collaboration",
+      "items": [
+        "Open to partnerships with schools, communities, researchers, and local governments.",
+        "Support can include validation data, policy feedback, or environmental literacy programs.",
+        "Visit satucuaca.id to get in touch."
+      ]
+    },
+    {
+      "title": "Funding",
+      "items": [
+        "This research and project are funded by Universitas Padjadjaran.",
+        "App content is educational and supports decision making. Always follow local authorities."
+      ]
+    },
+    {
+      "title": "Data Sources and Attribution",
+      "items": [
+        "Meersens (meersens.com): US AQI with a 0 to 500 scale, category and color, dominant pollutant, and pollutant metrics.",
+        "Tomorrow.io (tomorrow.io): V2 weather condition codes and icons, plus some short-term signals for the weather card.",
+        "Open-Meteo (open-meteo.com): hourly and daily forecasts, including fallback for current conditions.",
+        "Note: third-party data is provided as is. Availability and accuracy may vary."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T06:40:00Z",
+  "title": "Tentang Kami",
+  "intro": [
+    "Satu Cuaca adalah inisiatif riset-aplikatif yang menerjemahkan data kualitas udara dan cuaca menjadi informasi ringkas, tepercaya, dan siap dipakai untuk keputusan harian.",
+    "Fokus kami adalah akurasi ilmiah, keterbukaan metode, serta pengalaman pengguna yang sederhana tanpa mengurangi kedalaman analisis."
+  ],
+  "sections": [
+    {
+      "title": "Misi",
+      "items": [
+        "Menyediakan informasi lingkungan yang jelas, relevan, dan tepat waktu bagi semua kalangan.",
+        "Membantu perencanaan aktivitas luar ruang yang lebih aman melalui rekomendasi yang bertanggung jawab.",
+        "Menghubungkan temuan penelitian dengan kebutuhan praktis di lapangan."
+      ]
+    },
+    {
+      "title": "Pendekatan",
+      "items": [
+        "Mengintegrasikan berbagai sumber: jaringan sensor terkalibrasi, observasi cuaca, dan model prakiraan jangka pendek.",
+        "Menjalankan kendali mutu otomatis: penyaringan outlier, de-spike, pemeriksaan kelengkapan data, dan koreksi kelembapan pada sensor partikulat.",
+        "Memberi konteks lokal melalui pengujian di Bandung dan Johor agar rekomendasi mencerminkan pola setempat.",
+        "Menjaga transparansi dengan ringkasan metodologi yang mudah dipahami."
+      ]
+    },
+    {
+      "title": "Manfaat untuk Anda",
+      "items": [
+        "Indeks dan rekomendasi praktis seperti durasi aman, kebutuhan masker, waktu terbaik, rute, dan moda perjalanan.",
+        "Kartu dan peta kualitas udara serta sinyal cuaca utama seperti hujan, angin, dan suhu yang ringkas.",
+        "Tren sederhana untuk lokasi favorit serta artikel singkat pada menu Berita."
+      ]
+    },
+    {
+      "title": "Nilai yang Kami Pegang",
+      "items": [
+        "Privasi sejak desain. Izin lokasi bersifat opsional dan dapat dicabut kapan saja. Data penggunaan tidak diperjualbelikan.",
+        "Keandalan dan kehati-hatian. Peringatan dikirim hanya saat diperlukan, disertai tingkat keyakinan dan alasan singkat.",
+        "Aksesibilitas. Antarmuka sederhana dan inklusif lintas usia dan latar belakang."
+      ]
+    },
+    {
+      "title": "Tim",
+      "items": [
+        "Dr. M.D. Enjat Munajat, S.Si., MTI., Ph.D. (Unpad, Indonesia)",
+        "Prof. Dr. Dra. R. Ira Irawati, M.Si. (Unpad, Indonesia)",
+        "Prof. Dr. Drs. Heru Nurasa, M.A. (Unpad, Indonesia)",
+        "Dr. Mohd Murtadha Bin Mohamad (UTM, Malaysia)",
+        "Sholeh Qomaruddin, S.Hum. (Unpad, Indonesia)"
+      ]
+    },
+    {
+      "title": "Kolaborasi",
+      "items": [
+        "Terbuka untuk kemitraan dengan sekolah, komunitas, peneliti, dan pemerintah daerah.",
+        "Dukungan dapat berupa data validasi, umpan balik kebijakan, atau program literasi lingkungan.",
+        "Kunjungi satucuaca.id untuk menghubungi kami."
+      ]
+    },
+    {
+      "title": "Pendanaan",
+      "items": [
+        "Riset dan proyek ini didanai oleh Universitas Padjadjaran.",
+        "Konten aplikasi bersifat edukatif dan mendukung pengambilan keputusan. Ikuti selalu arahan otoritas setempat."
+      ]
+    },
+    {
+      "title": "Sumber Data dan Atribusi",
+      "items": [
+        "Meersens (meersens.com): US AQI skala 0–500, kategori & warna, polutan dominan, serta metrik polutan (PM2.5/PM10, O₃, NO₂, SO₂, CO).",
+        "Tomorrow.io (tomorrow.io): kode kondisi & ikon cuaca V2, serta sebagian sinyal prakiraan jangka pendek untuk kartu cuaca.",
+        "Open-Meteo (open-meteo.com): prakiraan cuaca per jam & harian, termasuk fallback kondisi saat ini.",
+        "Catatan: data pihak ketiga disajikan apa adanya; ketersediaan dan akurasi dapat bervariasi."
+      ]
+    }
+  ]
+}
