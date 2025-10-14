@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T08:10:00Z",
+  "title": "Syarat & Ketentuan",
+  "intro": [
+    "Tanggal berlaku: 20 Agustus 2025",
+    "Dengan menginstal atau menggunakan Satu Cuaca, Anda menyetujui Syarat & Ketentuan ini. Bila tidak setuju, jangan gunakan layanan."
+  ],
+  "sections": [
+    {
+      "title": "Definisi",
+      "items": [
+        "“Layanan” berarti situs satucuaca.id, aplikasi seluler, API, dan konten terkait.",
+        "“Pengguna” berarti individu yang mengakses/ menggunakan Layanan."
+      ]
+    },
+    {
+      "title": "Perubahan Syarat",
+      "items": [
+        "Kami dapat memperbarui Syarat ini. Versi terbaru akan ditampilkan di aplikasi/situs.",
+        "Jika perubahan material, kami akan memberi pemberitahuan yang jelas."
+      ]
+    },
+    {
+      "title": "Kelayakan & Akun",
+      "items": [
+        "Anda harus berusia minimal 13 tahun (atau usia minimum setempat) untuk menggunakan Layanan.",
+        "Jika akun tersedia, Anda bertanggung jawab atas kerahasiaan kredensial dan aktivitas pada akun Anda."
+      ]
+    },
+    {
+      "title": "Lisensi Penggunaan",
+      "items": [
+        "Kami memberi Anda lisensi terbatas, non-eksklusif, dan tidak dapat dipindahtangankan untuk menggunakan aplikasi hanya untuk tujuan pribadi/non-komersial.",
+        "Semua hak kekayaan intelektual tetap milik kami atau pemberi lisensi kami."
+      ]
+    },
+    {
+      "title": "Larangan",
+      "items": [
+        "Dilarang reverse engineer, decompile, scraping masif, atau mengakali pembatasan (rate-limit/keamanan).",
+        "Dilarang menggunakan Layanan secara melanggar hukum, menyesatkan, atau merugikan pihak lain."
+      ]
+    },
+    {
+      "title": "Konten & IP",
+      "items": [
+        "Teks, grafik, data, dan kode pada Layanan dilindungi hukum.",
+        "Penggunaan kembali harus mengikuti lisensi yang berlaku (jika ada) dan atribusi yang tepat."
+      ]
+    },
+    {
+      "title": "Tautan & Layanan Pihak Ketiga",
+      "items": [
+        "Layanan dapat berisi tautan atau integrasi pihak ketiga yang kami tidak kendalikan.",
+        "Kami tidak bertanggung jawab atas konten/kebijakan pihak ketiga; gunakan dengan kebijakan Anda.",
+        // ⬇️ Tambahan 2 butir sesuai permintaan
+        "Kami menggunakan penyedia data pihak ketiga termasuk Meersens, Tomorrow.io, dan Open-Meteo. Data disediakan sebagaimana adanya dan dapat berubah tanpa pemberitahuan.",
+        "Ketersediaan, ketepatan, dan cakupan data mengikuti kebijakan teknis dan lisensi masing-masing penyedia."
+      ]
+    },
+    {
+      "title": "Informasi & Penafian",
+      "items": [
+        "Informasi cuaca/AQI bersifat dinamis dan mengandung ketidakpastian.",
+        "Layanan disediakan “sebagaimana adanya” tanpa jaminan tersirat apa pun.",
+        "Satu Cuaca bukan nasihat medis/keamanan; selalu ikuti arahan otoritas setempat."
+      ]
+    },
+    {
+      "title": "Ketersediaan Layanan",
+      "items": [
+        "Kami berupaya menjaga layanan tersedia, namun tidak menjamin bebas gangguan atau bebas error.",
+        "Fitur dapat berubah atau dihentikan sewaktu-waktu."
+      ]
+    },
+    {
+      "title": "Pengakhiran",
+      "items": [
+        "Kami dapat menangguhkan atau mengakhiri akses Anda jika melanggar Syarat ini atau membahayakan layanan/pengguna lain.",
+        "Anda dapat berhenti menggunakan layanan kapan saja; jika ada akun, Anda dapat meminta penutupan."
+      ]
+    },
+    {
+      "title": "Batasan Tanggung Jawab",
+      "items": [
+        "Sejauh diizinkan hukum, kami tidak bertanggung jawab atas kerugian tidak langsung/insidental/konsekuensial.",
+        "Tanggung jawab total kami (jika ada) dibatasi pada jumlah yang secara wajar Anda bayarkan untuk layanan (jika berbayar)."
+      ]
+    },
+    {
+      "title": "Ganti Rugi",
+      "items": [
+        "Anda setuju membebaskan kami dari klaim yang timbul akibat penggunaan Layanan yang melanggar Syarat ini atau hukum yang berlaku."
+      ]
+    },
+    {
+      "title": "Hukum yang Berlaku & Sengketa",
+      "items": [
+        "Syarat ini diatur oleh hukum Republik Indonesia, kecuali ditentukan lain oleh hukum setempat yang bersifat memaksa.",
+        "Sengketa akan diselesaikan secara musyawarah; jika gagal, melalui mekanisme yang berlaku di yurisdiksi tersebut."
+      ]
+    },
+    {
+      "title": "Privasi",
+      "items": [
+        "Penggunaan data pribadi diatur dalam Kebijakan Privasi kami.",
+        "Dengan menggunakan Layanan, Anda juga menyetujui ketentuan pada kebijakan tersebut."
+      ]
+    },
+    {
+      "title": "Kontak",
+      "items": ["Pertanyaan terkait Syarat ini: admin@satucuaca.id"]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "updatedAt": "2025-10-14T08:10:00Z",
+  "title": "Terms & Conditions",
+  "intro": [
+    "Effective date: 20 August 2025",
+    "By installing or using Satu Cuaca, you agree to these Terms. If you do not agree, please do not use the Service."
+  ],
+  "sections": [
+    {
+      "title": "Definitions",
+      "items": [
+        "“Service” means the satucuaca.id website, mobile apps, APIs, and related content.",
+        "“User” means any individual who accesses or uses the Service."
+      ]
+    },
+    {
+      "title": "Changes to the Terms",
+      "items": [
+        "We may update these Terms; the latest version will be shown in the app/website.",
+        "Material changes will be clearly communicated."
+      ]
+    },
+    {
+      "title": "Eligibility & Accounts",
+      "items": [
+        "You must be at least 13 years old (or the local minimum age) to use the Service.",
+        "If accounts are available, you are responsible for safeguarding credentials and activity under your account."
+      ]
+    },
+    {
+      "title": "License to Use",
+      "items": [
+        "We grant you a limited, non-exclusive, non-transferable license to use the app for personal/non-commercial purposes.",
+        "All intellectual property rights remain with us or our licensors."
+      ]
+    },
+    {
+      "title": "Restrictions",
+      "items": [
+        "No reverse engineering, decompiling, mass scraping, or circumventing rate-limits/security.",
+        "Do not use the Service unlawfully, deceptively, or in a way that harms others."
+      ]
+    },
+    {
+      "title": "Content & IP",
+      "items": [
+        "Text, graphics, data, and code in the Service are protected.",
+        "Any reuse must follow applicable licenses (if any) with proper attribution."
+      ]
+    },
+    {
+      "title": "Third-Party Links & Services",
+      "items": [
+        "The Service may link to or integrate third-party content we do not control.",
+        "We are not responsible for third-party content/policies; use at your discretion.",
+        // ⬇️ Added 2 bullets as requested
+        "We use third-party data providers including Meersens, Tomorrow.io, and Open-Meteo. Data is provided as is and may change without notice.",
+        "Availability, accuracy, and coverage depend on each provider’s technical policies and licensing."
+      ]
+    },
+    {
+      "title": "Information & Disclaimers",
+      "items": [
+        "Weather/AQI information is dynamic and carries uncertainty.",
+        "The Service is provided “as is” without implied warranties.",
+        "Satu Cuaca is not medical/safety advice; always follow local guidance."
+      ]
+    },
+    {
+      "title": "Service Availability",
+      "items": [
+        "We strive for availability but do not warrant uninterrupted or error-free operation.",
+        "Features may change or be discontinued at any time."
+      ]
+    },
+    {
+      "title": "Termination",
+      "items": [
+        "We may suspend or terminate access if you violate these Terms or endanger the Service/other users.",
+        "You may stop using the Service at any time; if an account exists, you may request closure."
+      ]
+    },
+    {
+      "title": "Limitation of Liability",
+      "items": [
+        "To the extent permitted by law, we are not liable for indirect/incidental/consequential damages.",
+        "Any total liability (if any) is limited to the amount you reasonably paid for the Service (if any)."
+      ]
+    },
+    {
+      "title": "Indemnity",
+      "items": [
+        "You agree to hold us harmless from claims arising from your use of the Service in breach of these Terms or applicable law."
+      ]
+    },
+    {
+      "title": "Governing Law & Disputes",
+      "items": [
+        "These Terms are governed by the laws of the Republic of Indonesia unless mandatory local law provides otherwise.",
+        "Disputes will be resolved amicably; failing that, by the applicable mechanism in the relevant jurisdiction."
+      ]
+    },
+    {
+      "title": "Privacy",
+      "items": [
+        "Personal data use is governed by our Privacy Policy.",
+        "By using the Service, you also agree to that policy."
+      ]
+    },
+    {
+      "title": "Contact",
+      "items": ["Questions about these Terms: admin@satucuaca.id"]
+    }
+  ]
+}
