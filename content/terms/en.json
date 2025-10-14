@@ -54,7 +54,6 @@
       "items": [
         "The Service may link to or integrate third-party content we do not control.",
         "We are not responsible for third-party content/policies; use at your discretion.",
-        // ⬇️ Added 2 bullets as requested
         "We use third-party data providers including Meersens, Tomorrow.io, and Open-Meteo. Data is provided as is and may change without notice.",
         "Availability, accuracy, and coverage depend on each provider’s technical policies and licensing."
       ]
